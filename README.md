@@ -3,4 +3,4 @@ The porject is divided into two parts: Supervised and Unsupervised Machine Learn
 Supervised further divided into: 01 Optimization and Gradient Descent/ 02 Supervised Machine Learning part 1/ 03 Supervised Machine Learning part 2
 Unsupervised divided into: 01 Unsupervised Learning Algorithms/ 02 Complex Machine Learning Models and Keras/ 03 Complex Machine Learning Models/ 04 Evaluating Hyperparameters/ 05 Visual Applications of Machine Learning
 Datasets were not uploaded due to size but they can be accessed through the [link](https://drive.google.com/file/d/197yVKjWoNJ10nQYDYGxjeMUVZfMjO5rP/view?usp=sharing), and [link](https://drive.google.com/file/d/1DotqTxO2ewQQq72jquZyBBsBswPjSr8e/view?usp=sharing).
-For unsupervised 03 Machine Learning the notebook was too large to be uploaded but can be accessed here [link](https://drive.google.com/file/d/1C9LJLZfPhHOfoxiJJGrwpidj7vt6NR3c/view?usp=sharing)
+In Unsupervised 03 Machine Learning the notebook was too large to be uploaded but can be accessed here [link](https://drive.google.com/file/d/1C9LJLZfPhHOfoxiJJGrwpidj7vt6NR3c/view?usp=sharing)
